@@ -54,7 +54,7 @@ Platform Engineer specializing in **AI Infrastructure (LLMOps)** and secure **cl
 | [#472](https://github.com/withcoral/coral/pull/472) | **Jenkins** community source | ✅ Merged |
 | [#489](https://github.com/withcoral/coral/pull/489) | **HubSpot** community source | ✅ Merged |
 
-Explore upstream: [`sources/community/`](https://github.com/withcoral/coral/tree/main/sources/community) · Showcase repo: [`coral-k8s-ops`](https://github.com/Vickyavh7/coral-k8s-ops)
+Explore upstream: [`sources/community/`](https://github.com/withcoral/coral/tree/main/sources/community) · Showcase: [`coral-k8s-ops`](https://github.com/Vickyavh7/coral-k8s-ops) · AIOps: [`k8sgpt-ollama-aops`](https://github.com/Vickyavh7/k8sgpt-ollama-aops)
 
 Also contributing to **`browser-use`**, **`awesome-mcp-servers`**, and **`vectorize-io/hindsight`**.
 
@@ -83,8 +83,9 @@ GitLab CI/CD · Prometheus · Grafana · Loki · Alloy · SSH-based secure pipel
 
 | Project | Description |
 |---------|-------------|
-| [**coral-k8s-ops**](https://github.com/Vickyavh7/coral-k8s-ops) | Guide & examples — query Kubernetes cluster state with SQL via Coral |
-| [**withcoral/coral**](https://github.com/withcoral/coral) | 4 merged community sources (k8s, prometheus, jenkins, hubspot) |
+| [**coral-k8s-ops**](https://github.com/Vickyavh7/coral-k8s-ops) | All 4 Coral community sources — k8s, prometheus, jenkins, hubspot + cross-source SQL |
+| [**k8sgpt-ollama-aops**](https://github.com/Vickyavh7/k8sgpt-ollama-aops) | K8sGPT + Ollama in-cluster diagnostics — manifests, troubleshooting, validation |
+| [**withcoral/coral**](https://github.com/withcoral/coral) | 4 merged community sources upstream |
 | [**cloudhireops**](https://github.com/Vickyavh7/cloudhireops) | Automated DevOps job search with AI scoring and Telegram alerts |
 | **Local-First Multi-Tenant AI Platform** | Cost-effective enterprise architecture minimizing cloud egress & latency |
 
