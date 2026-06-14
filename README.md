@@ -2,59 +2,80 @@
 
 # Hi, I'm Vicky Avhad 👋
 
-**DevOps Engineer** · Kubernetes · AWS · Open Source @ [Coral](https://github.com/withcoral/coral)
+**AI Infrastructure & DevOps Engineer** · Kubernetes · LLMOps · Open Source @ [Coral](https://github.com/withcoral/coral)
 
-Building reliable cloud platforms, observability pipelines, and tools that make Day-2 operations simpler.
+Platform engineer specializing in AI infrastructure, secure cloud-native orchestration, and scaling data workloads on Kubernetes.
 
-📍 Thane, Maharashtra, India · 🧑‍💻 Open Source Contributor · ☁️ AWS Certified
+📍 Thane, Maharashtra, India · 🧑‍💻 Coral Contributor · ☁️ AWS Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicky_Avhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-avhad-956982270/)
+[![Email](https://img.shields.io/badge/Email-vickyahad2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyahad2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vickyavh7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vickyavh7)
-[![Coral](https://img.shields.io/badge/Coral-Community_Contributor-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://github.com/withcoral/coral)
+[![Coral](https://img.shields.io/badge/Coral-Merged_Contributor-6366f1?style=for-the-badge)](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3AVickyavh7+is%3Amerged)
 
 </div>
 
 ---
 
+## Summary
+
+Platform Engineer specializing in **AI Infrastructure (LLMOps)** and secure **cloud-native orchestration**. I scale Spark on Kubernetes, build AIOps workflows with K8sGPT + self-hosted LLMs, and harden AWS environments through IAM least-privilege, private network architectures, and automated security auditing.
+
+---
+
 ## 🔭 Current Focus
 
-- **Open Source @ Coral** — Building the **Kubernetes community source** so cluster state (pods, RBAC, events, workloads) is queryable with SQL via the K8s REST API
-- **Platform Engineering** — Kubernetes deployments, CI/CD (GitLab/Jenkins), Helm, and NFS-backed stateful workloads in production
-- **Observability & Audit** — Trino + Ranger audit pipelines, Loki/Grafana log analysis, Solr indexing patterns on Kubernetes
-- **AI-Assisted Ops** — K8sGPT + Ollama for cluster health triage and AI-generated incident explanations
-- **Automation** — [`cloudhireops`](https://github.com/Vickyavh7/cloudhireops) — DevOps job search automation with AI scoring and Telegram alerts
+- **Open Source @ Coral** — Merged community sources for Kubernetes, Prometheus, Jenkins, and HubSpot
+- **AIOps & LLMOps** — K8sGPT + Ollama diagnostics, Langfuse for LLM observability, human-in-the-loop remediation
+- **Air-Gapped K8s** — On-prem internet-restricted clusters, NFS-backed local image registries, sealed secrets
+- **Data Platform Ops** — Dynamic Spark on K8s, Airflow workflow automation, Trino + MinIO + Superset stacks
+- **Security** — IAM least-privilege, Bastion/VPN access, network policies, RBAC auditing via Coral SQL
 
 ---
 
 ## 📊 Key Highlights
 
-| Area | What I've Built |
-|------|-----------------|
-| **Coral K8s Source** | 22+ SQL tables over Kubernetes API — pods, deployments, RBAC, events, PVCs, rollback actions |
-| **Production K8s** | Multi-namespace clusters, Trino/Ranger/Solr audit stacks, Solr 9.x compatibility fixes |
-| **Observability** | Loki + Alloy + Grafana pipelines for structured audit JSON from Trino workloads |
-| **Certifications** | AWS Solutions Architect · AWS Developer · AWS Cloud Practitioner · Databricks GenAI |
-| **Open Source** | Contributions to `withcoral/coral`, `browser-use`, `awesome-mcp-servers`, `vectorize-io/hindsight` |
+| Area | Impact |
+|------|--------|
+| **Coral OSS** | **4 merged PRs** — k8s, prometheus, jenkins, hubspot community sources |
+| **Spark on K8s** | ~30% compute cost reduction via dynamic scaling strategies |
+| **AIOps Pipeline** | K8sGPT + LLM integrated with Teams for automated cluster diagnostics |
+| **Air-Gapped Platform** | Local registry on NFS + secure CI/CD for restricted environments |
+| **Airflow Reliability** | ~15% pipeline reliability improvement via dataset scheduling & secret automation |
 
 ---
 
-## 🎯 Areas of Expertise
+## 🏆 Coral — Merged Contributions
 
-**Cloud & Infrastructure**
-- Kubernetes (EKS/on-prem), Helm, Ingress, RBAC, PV/PVC, GitOps patterns
-- AWS (ECS/EKS/RDS), Terraform, Docker, container registries (GitLab/Docker Hub)
+| PR | Source | Status |
+|----|--------|--------|
+| [#420](https://github.com/withcoral/coral/pull/420) | **Kubernetes** community source | ✅ Merged |
+| [#665](https://github.com/withcoral/coral/pull/665) | **Prometheus** community source | ✅ Merged |
+| [#472](https://github.com/withcoral/coral/pull/472) | **Jenkins** community source | ✅ Merged |
+| [#489](https://github.com/withcoral/coral/pull/489) | **HubSpot** community source | ✅ Merged |
 
-**Data Platform & Observability**
-- Trino, Apache Ranger, Solr, OpenSearch/ELK
-- Prometheus, Grafana, Loki, Alloy, CloudWatch
+Explore upstream: [`sources/community/`](https://github.com/withcoral/coral/tree/main/sources/community) · Showcase repo: [`coral-k8s-ops`](https://github.com/Vickyavh7/coral-k8s-ops)
 
-**CI/CD & Automation**
-- GitLab CI, Jenkins, GitHub Actions
-- Python/Bash automation, runbooks, Day-2 operational tooling
+Also contributing to **`browser-use`**, **`awesome-mcp-servers`**, and **`vectorize-io/hindsight`**.
 
-**Open Source & AI Tooling**
-- Coral source specs (HTTP DSL v3), MCP integrations
-- K8sGPT, Ollama, agent-driven DevOps workflows
+---
+
+## 🎯 Core Skills
+
+**AI & LLMOps**
+K8sGPT · Ollama (self-hosted inference) · Langfuse · Model serving · Vector DB concepts · MCP integrations
+
+**Security & Cloud**
+AWS (EKS, EC2, S3, IAM, Route53, VPC/Bastion/VPN) · RBAC · Sealed Secrets · Network policies · IAM least-privilege
+
+**Orchestration**
+Kubernetes (HPA, PDB, Operators) · Docker · Helm · kubeadm · Terraform · Air-gapped cluster design
+
+**Data Ops**
+Apache Spark on K8s · Apache Airflow · Trino · MinIO · Superset · Coral SQL over live APIs
+
+**CI/CD & Observability**
+GitLab CI/CD · Prometheus · Grafana · Loki · Alloy · SSH-based secure pipelines
 
 ---
 
@@ -62,48 +83,34 @@ Building reliable cloud platforms, observability pipelines, and tools that make 
 
 | Project | Description |
 |---------|-------------|
-| [**coral-k8s-ops**](https://github.com/Vickyavh7/coral-k8s-ops) | Showcase & guide — query Kubernetes with SQL via Coral community source |
-| [**Coral — K8s Community Source**](https://github.com/withcoral/coral/tree/main/sources/community/k8s) | Upstream manifest — workloads, networking, storage, RBAC, events |
-| [**cloudhireops**](https://github.com/Vickyavh7/cloudhireops) | Automated DevOps job search: scrape listings, AI score matches, Telegram alerts |
-| [**coral**](https://github.com/Vickyavh7/coral) | Fork & experiments with Coral — local-first SQL runtime for agents over APIs and live sources |
-
----
-
-## 🏆 Open Source Contributions
-
-Contributing to the Coral ecosystem alongside builders like [@jishanahmed-shaikh](https://github.com/jishanahmed-shaikh):
-
-- **`withcoral/coral`** — Kubernetes community source (manifest, README, RBAC, example queries)
-- **`browser-use/browser-use`** — Browser automation for agents
-- **`punkpeye/awesome-mcp-servers`** — MCP server catalog
-- **`vectorize-io/hindsight`** — Agent memory / retrieval tooling
-
-> Coral lets agents query GitHub, Kubernetes, Datadog, and 50+ sources with one SQL interface — no ETL, no silos.
+| [**coral-k8s-ops**](https://github.com/Vickyavh7/coral-k8s-ops) | Guide & examples — query Kubernetes cluster state with SQL via Coral |
+| [**withcoral/coral**](https://github.com/withcoral/coral) | 4 merged community sources (k8s, prometheus, jenkins, hubspot) |
+| [**cloudhireops**](https://github.com/Vickyavh7/cloudhireops) | Automated DevOps job search with AI scoring and Telegram alerts |
+| **Local-First Multi-Tenant AI Platform** | Cost-effective enterprise architecture minimizing cloud egress & latency |
 
 ---
 
 ## ⚒️ Tech Stack
 
-**Languages**
+**Languages & IaC**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-![HCL](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud & Orchestration**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-**Observability & Data**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+**AI, Data & Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ---
 
@@ -120,14 +127,15 @@ Contributing to the Coral ecosystem alongside builders like [@jishanahmed-shaikh
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Education
 
-| Certification | Issuer |
-|---------------|--------|
-| AWS Solutions Architect – Associate | Amazon Web Services |
-| AWS Developer – Associate | Amazon Web Services |
-| AWS Cloud Practitioner | Amazon Web Services |
-| Generative AI Fundamentals | Databricks |
+| Credential | Details |
+|------------|---------|
+| AWS Certified **CloudOps Engineer** – Associate | 2026–2029 |
+| AWS **Solutions Architect** – Associate | 2024–2027 |
+| AWS **Developer** – Associate | 2024–2027 |
+| AWS **Cloud Practitioner** | 2024–2027 |
+| **B.Sc. Computer Science / IT** | Savitribai Phule Pune University · 2020–2023 |
 
 ---
 
@@ -136,8 +144,10 @@ Contributing to the Coral ecosystem alongside builders like [@jishanahmed-shaikh
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-avhad-956982270/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyavhad222@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vickyahad2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyahad2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vickyavh7)
+
+📞 +91 91727 29859 · 📍 Thane, Maharashtra, India
 
 </div>
 
@@ -145,15 +155,15 @@ Contributing to the Coral ecosystem alongside builders like [@jishanahmed-shaikh
 
 ## 💡 Open To
 
-- **Open source collaborations** on Kubernetes, observability, and Coral community sources
-- **DevOps / Platform Engineering** roles and consulting
-- **Technical writing** — runbooks, architecture notes, Day-2 ops patterns
+- **Open source** — Coral community sources, Kubernetes tooling, LLMOps integrations
+- **AI Infrastructure & Platform Engineering** roles
+- **Technical writing** — runbooks, air-gapped K8s patterns, AIOps architecture notes
 
 ---
 
 <div align="center">
 
-⭐ If you find my work useful, star the repos and connect on [LinkedIn](https://www.linkedin.com/in/vicky-avhad-956982270/)!
+⭐ Star the repos · Connect on [LinkedIn](https://www.linkedin.com/in/vicky-avhad-956982270/) · Explore my [Coral PRs](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3AVickyavh7+is%3Amerged)
 
 *Made with ❤️ by Vicky Avhad*
 
