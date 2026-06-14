@@ -2,11 +2,11 @@
 
 # Hi, I'm Vicky Avhad 👋
 
-**AI Infrastructure & DevOps Engineer** · Kubernetes · LLMOps · Open Source @ [Coral](https://github.com/withcoral/coral)
+**AI Infrastructure & DevOps Engineer** · Kubernetes · LLMOps · AIOps · Open Source @ [Coral](https://github.com/withcoral/coral)
 
-Platform engineer specializing in AI infrastructure, secure cloud-native orchestration, and scaling data workloads on Kubernetes.
+Platform engineer specializing in AI infrastructure, K8sGPT + Ollama cluster diagnostics, and scaling data workloads on Kubernetes.
 
-📍 Thane, Maharashtra, India · 🧑‍💻 Coral Contributor · ☁️ AWS Certified
+📍 Thane, Maharashtra, India · 🧑‍💻 4× Coral OSS · 🤖 [K8sGPT + Ollama](https://github.com/Vickyavh7/k8sgpt-ollama-aops) · ☁️ AWS Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicky_Avhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-avhad-956982270/)
 [![Email](https://img.shields.io/badge/Email-vickyahad2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyahad2000@gmail.com)
@@ -26,7 +26,7 @@ Platform Engineer specializing in **AI Infrastructure (LLMOps)** and secure **cl
 ## 🔭 Current Focus
 
 - **Open Source @ Coral** — Merged community sources for Kubernetes, Prometheus, Jenkins, and HubSpot
-- **AIOps & LLMOps** — K8sGPT + Ollama diagnostics, Langfuse for LLM observability, human-in-the-loop remediation
+- **AIOps & LLMOps** — [K8sGPT + Ollama](https://github.com/Vickyavh7/k8sgpt-ollama-aops) in-cluster diagnostics, Langfuse for LLM observability, human-in-the-loop remediation
 - **Air-Gapped K8s** — On-prem internet-restricted clusters, NFS-backed local image registries, sealed secrets
 - **Data Platform Ops** — Dynamic Spark on K8s, Airflow workflow automation, Trino + MinIO + Superset stacks
 - **Security** — IAM least-privilege, Bastion/VPN access, network policies, RBAC auditing via Coral SQL
