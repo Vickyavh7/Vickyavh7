@@ -127,15 +127,24 @@ GitLab CI/CD · Prometheus · Grafana · Loki · Alloy · SSH-based secure pipel
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 AWS Certifications & Education
 
-| Credential | Details |
-|------------|---------|
-| AWS Certified **CloudOps Engineer** – Associate | 2026–2029 |
-| AWS **Solutions Architect** – Associate | 2024–2027 |
-| AWS **Developer** – Associate | 2024–2027 |
-| AWS **Cloud Practitioner** | 2024–2027 |
-| **B.Sc. Computer Science / IT** | Savitribai Phule Pune University · 2020–2023 |
+<div align="center">
+
+[![AWS CloudOps Engineer](https://img.shields.io/badge/AWS_CloudOps_Engineer-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/users/vicky-avhad)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/23272413-b24f-4eb0-ade6-c5f6db1c2b58/public_url)
+[![AWS Developer](https://img.shields.io/badge/AWS_Developer-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/e05dca04-743c-448e-bbf7-2e415b2e8f93/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/4123fee4-110e-4fb1-b7b7-ce2dbdb63026/public_url)
+
+</div>
+
+| Credential | Issuer | Valid |
+|------------|--------|-------|
+| AWS Certified **CloudOps Engineer** – Associate | Amazon Web Services | 2026–2029 |
+| AWS **Solutions Architect** – Associate | Amazon Web Services | 2024–2027 |
+| AWS **Developer** – Associate | Amazon Web Services | 2024–2027 |
+| AWS **Cloud Practitioner** | Amazon Web Services | 2024–2027 |
+| **B.Sc. Computer Science / IT** | Savitribai Phule Pune University | 2020–2023 |
 
 ---
 
