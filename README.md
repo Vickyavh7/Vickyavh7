@@ -2,7 +2,7 @@
 
 # Hi, I'm Vicky Avhad 👋
 
-**DevOps Engineer @ [PassionBytes](https://www.linkedin.com/company/passionbytes)** · Kubernetes · AWS · Open Source @ [Coral](https://github.com/withcoral/coral)
+**DevOps Engineer** · Kubernetes · AWS · Open Source @ [Coral](https://github.com/withcoral/coral)
 
 Building reliable cloud platforms, observability pipelines, and tools that make Day-2 operations simpler.
 
@@ -62,7 +62,8 @@ Building reliable cloud platforms, observability pipelines, and tools that make 
 
 | Project | Description |
 |---------|-------------|
-| [**Coral — K8s Community Source**](https://github.com/withcoral/coral/tree/main/sources/community/k8s) | Query live Kubernetes cluster state with SQL — workloads, networking, storage, RBAC, events |
+| [**coral-k8s-ops**](https://github.com/Vickyavh7/coral-k8s-ops) | Showcase & guide — query Kubernetes with SQL via Coral community source |
+| [**Coral — K8s Community Source**](https://github.com/withcoral/coral/tree/main/sources/community/k8s) | Upstream manifest — workloads, networking, storage, RBAC, events |
 | [**cloudhireops**](https://github.com/Vickyavh7/cloudhireops) | Automated DevOps job search: scrape listings, AI score matches, Telegram alerts |
 | [**coral**](https://github.com/Vickyavh7/coral) | Fork & experiments with Coral — local-first SQL runtime for agents over APIs and live sources |
 

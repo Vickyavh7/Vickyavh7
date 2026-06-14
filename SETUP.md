@@ -24,7 +24,7 @@ git -c "core.sshCommand=ssh -i C:/Users/vicky/.ssh/yes -o StrictHostKeyChecking=
 
 1. **Bio** (https://github.com/settings/profile):
    ```
-   DevOps Engineer @ PassionBytes | Kubernetes | AWS | Open Source @ Coral | CI/CD & Observability
+   DevOps Engineer | Kubernetes | AWS | Open Source @ Coral | CI/CD & Observability
    ```
 
 2. **Website**: https://www.linkedin.com/in/vicky-avhad-956982270/
@@ -40,5 +40,5 @@ git -c "core.sshCommand=ssh -i C:/Users/vicky/.ssh/yes -o StrictHostKeyChecking=
 ## LinkedIn link verified
 
 - https://www.linkedin.com/in/vicky-avhad-956982270/
-- DevOps Engineer @ PassionBytes, Thane, Maharashtra
+- DevOps Engineer, Thane, Maharashtra
 - AWS SAA + Developer Associate, Databricks GenAI
